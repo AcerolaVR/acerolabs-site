@@ -11,12 +11,11 @@
 		"enabled": true
 	},
 	{
-  "routes": [
+	"routes": [
     {
       "pattern": "acerola.xyz",
       "custom_domain": true,
     },
   ],
-}
 	"upload_source_maps": true
 }
