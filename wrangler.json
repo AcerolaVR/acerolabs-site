@@ -13,10 +13,10 @@
 	{
   "routes": [
     {
-      "pattern": "acerolabs.xyz",
-      "custom_domain": true
-    }
-  ]
+      "pattern": "acerola.xyz",
+      "custom_domain": true,
+    },
+  ],
 }
 	"upload_source_maps": true
 }
