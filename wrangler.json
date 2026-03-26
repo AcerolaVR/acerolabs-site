@@ -10,5 +10,13 @@
 	"observability": {
 		"enabled": true
 	},
+	{
+  "routes": [
+    {
+      "pattern": "acerolabs.xyz",
+      "custom_domain": true
+    }
+  ]
+}
 	"upload_source_maps": true
 }
